@@ -21,6 +21,7 @@ public class LogSearch {
 	private String[] dateSplit;
 	private String[] dateSplit2;
 	//Time variable stored as integers for comparison and count.
+	//Define time variable.
 	private int startTimeHrs;
 	private int startTimeMin;
 	private int endTimeHrs;
